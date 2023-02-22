@@ -1,0 +1,24 @@
+.row {
+  /* border: 2px solid red; */
+  margin-top: -8px;
+}
+.col-3 {
+  border-right: 5px solid black;
+  margin: 0px 0px;
+  padding-top: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.Content-Data {
+  /* height: 100vh; */
+  border: 1px solid black;
+  border-top: 0px;
+}
+table,
+th,
+td {
+  border: 2px solid black;
+  margin: 20px 20px;
+  padding:7px 40px
+}

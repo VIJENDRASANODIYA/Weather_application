@@ -1,0 +1,108 @@
+body{
+  margin:0;
+  padding:0;
+}
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+input {
+  margin: 20px;
+  padding: 6px 25px;
+}
+.inputField {
+  text-align: right;
+}
+.btn {
+  background-color: #4472c4;
+  color: #ffffff;
+  padding: 6px 20px;
+  font-weight: bold;
+  margin-top: -4px;
+}
+.col-9 input {
+  border: 1px solid black;
+  padding: 6px 75px;
+  margin: 12px -95px;
+}
+.btn:hover {
+  background-color: #4472c4;
+  color: #ffffff;
+  padding: 6px 20px;
+  font-weight: bold;
+  margin-top: -4px;
+}
+.city {
+  border-bottom: 4px solid #000000;
+  padding: 15px;
+  width: 120px;
+}
+.city1 {
+  border-bottom: 4px solid #000000;
+  padding: 15px;
+  width: 120px;
+}
+.city2 {
+  border-bottom: 4px solid #000000;
+  padding: 15px;
+  width: 120px;
+}
+.city3 {
+  border-bottom: 4px solid #000000;
+  padding: 15px;
+  width: 120px;
+}
+.t {
+  border-bottom: 1px solid black;
+  width: 30px;
+  border: 2px solid green;
+}
+.t0 {
+  border-bottom: 1px solid black;
+  width: 30px;
+  padding: 10px;
+}
+.text::placeholder {
+  font-size: medium;
+  color: #000000;
+}
+.text {
+  border-radius: 7px;
+  border: 1px solid #4472c4;
+  outline: none;
+  height: 40px;
+}
+.th-city{
+  background-color: #4472c4;}
+ .col-9 {
+   border-right: 5px solid black;
+   /* margin: 0px -29px; */
+   /* padding-top: 10px; */
+   padding: 10px 60px;
+
+ }
+ 
+ .col-3.left-btn{
+  background-color: #4472c4;
+     color: white;
+     font-weight: 600;
+     padding: 10px;
+     border-radius: 5px;
+ }
+ .Btn {
+   background-color: #4472c4;
+   color: #ffffff;
+   padding: 5px 30px;
+   font-weight: bold;
+   margin-top: 5px;
+ }
+ .btn {
+   background-color: #4472c4;
+   color: #ffffff;
+   padding: 6px 20px;
+   font-weight: bold;
+   margin-top: -4px;
+ }
+ 
+ 
+ 
